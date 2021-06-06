@@ -33,7 +33,7 @@ A semi-official port of the open source [Anki](http://ankisrs.net/index.html) sp
 - more than 6000 premade decks
 - spaced repetition (supermemo 2 algorithm)
 - supported contents: text, images, sounds, MathJax
-- add cards by intent from other applications like dictionaries
+- add cards by intent from other applications like dictionaries and daragad kooparaisdoewd
 
 </div>
 
